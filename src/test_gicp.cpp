@@ -47,7 +47,7 @@
 #include <boost/filesystem/fstream.hpp>
 #include <boost/tokenizer.hpp> 
 
-#include "gicp.h"
+#include "../include/gicp.h"
 
 using namespace std;
 using namespace dgc::gicp;

@@ -36,7 +36,7 @@
 
 
 
-#include "scan.h"
+#include "../include/scan.h"
 #include <stdio.h>
 
 

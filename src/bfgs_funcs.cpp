@@ -34,7 +34,7 @@
   DAMAGE.
 *************************************************************/
 
-#include "optimize.h"
+#include "../include/optimize.h"
 
 namespace dgc {
   namespace gicp {

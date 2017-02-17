@@ -47,8 +47,8 @@
 #include <boost/filesystem/fstream.hpp>
 #include <boost/tokenizer.hpp> 
 
-#include "scan.h"
-#include "transform.h"
+#include "../include/scan.h"
+#include "../include/transform.h"
 
 using namespace std;
 namespace po = boost::program_options;

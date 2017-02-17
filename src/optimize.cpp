@@ -36,7 +36,7 @@
 
 
 
-#include "optimize.h"
+#include "../include/optimize.h"
 
 #include <iostream>
 #include <assert.h>

@@ -36,8 +36,8 @@
 
 
 
-#include "gicp.h"
-#include "optimize.h"
+#include "../include/gicp.h"
+#include "../include/optimize.h"
 #include <gsl/gsl_linalg.h>
 #include <gsl/gsl_blas.h>
 #include <fstream>
