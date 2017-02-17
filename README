@@ -1,3 +1,5 @@
+This is a CMake build version of the GICP libary. This allows for the library to be more easily used as part of larger projects. The following details are included from the forked Segal library.
+
 LICENSE
 =======
   Generalized-ICP Copyright (c) 2009 Aleksandr Segal; avsegal@cs.stanford.edu.
