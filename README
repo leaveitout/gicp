@@ -1,5 +1,7 @@
 This is a CMake build version of the GICP libary. This allows for the library to be more easily used as part of larger projects. The following details are included from the forked Segal library.
 
+The ANN library is a dependency, which exists in most linux dist repos. The version in Ubuntu 16.04 is confirmed to work.
+
 LICENSE
 =======
   Generalized-ICP Copyright (c) 2009 Aleksandr Segal; avsegal@cs.stanford.edu.
