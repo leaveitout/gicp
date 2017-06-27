@@ -25,8 +25,8 @@ add_library(gicp SHARED ${GICP_LIB_SOURCE_FILES})
 
 target_link_libraries(gicp
         ${ANN_LIBRARIES}
-        ${GSL_CBLAS_LIBRARY}
         ${GSL_LIBRARY}
+        ${GSL_CBLAS_LIBRARY}
         ${Boost_LIBRARIES})
 
 target_include_directories(gicp PUBLIC
